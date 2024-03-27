@@ -35,7 +35,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=baraazaid95&" alt="baraazaid95" /></p>
 
- **MLOps**
 
 - 📝 I regularly write articles on [https://medium.com/@baraaz](https://medium.com/@baraaz)
 
