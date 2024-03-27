@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Baraa Zaid</h1>
 <h3 align="center">A passionate Data Scientist/ML Engineer</h3>
 
-- 🌱 <h1 align="center">Hi 👋, I'm Baraa Zaid</h1>
-<h3 align="center">A passionate Data Scientist/ML Engineer</h3>
-
 
 - 🌱🌱 Right now, I'm diving into the world of **MLOps** 
 
@@ -61,6 +58,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=baraazaid95&show_icons=true&locale=en&layout=compact" alt="baraazaid95" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=baraazaid95&show_icons=true&locale=en" alt="baraazaid95" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=baraazaid95&" alt="baraazaid95" /></p>
 
